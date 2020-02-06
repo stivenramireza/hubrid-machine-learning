@@ -1,6 +1,6 @@
 # Hubrid Machine Learning
 
-Data Science projects about Social Media and Hybrid Learning.
+Data Science project about Social Media using Machine Learning.
 
 ## Members
 
