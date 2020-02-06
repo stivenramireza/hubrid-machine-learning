@@ -1,4 +1,4 @@
-# Hubrid Machine Learning
+# Social Media Machine Learning
 
 Data Science project about Social Media using supervised, unsupervised and reinforcement Machine Learning algorithms.
 
